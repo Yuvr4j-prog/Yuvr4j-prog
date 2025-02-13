@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yuvr4j-prog
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning c/c++.
+- 🌱 I’m currently learning c/c++,java
 - 💞️ I’m looking to collaborate on  ...
 - 📫 reach me through my email - yuuvrrajj@gmail.com
 - 😄 Pronouns: he/him
