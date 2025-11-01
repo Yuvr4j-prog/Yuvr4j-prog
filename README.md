@@ -11,7 +11,7 @@
 ---
 
 ### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](linkedin.com/in/yuvraj-bundela-4201a932a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([linkedin.com/in/yuvraj-bundela-4201a932a](https://www.linkedin.com/in/yuvraj-bundela-4201a932a/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BWoCkSwYySc6uPayiqNImPQ%3D%3D))
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/yuviiiwxyz?igsh=OHFiemR4YWN2Nnoy)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuuvrrajj@gmail.com)
 
